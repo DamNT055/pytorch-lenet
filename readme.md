@@ -17,8 +17,9 @@ The FashionMNIST dataset consists of 70,000 grayscale images of size 28x28, cate
 - Ankle boot
 
 The dataset is split into:
-- Training set: 60,000 images
-- Test set: 10,000 images
+- Train size: 48000
+- Validation size: 12000
+- Test size: 10000
 
 ## Model Architecture
 LeNet consists of the following layers:
